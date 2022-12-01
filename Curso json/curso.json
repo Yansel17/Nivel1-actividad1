@@ -1,0 +1,10 @@
+{
+    "titulo": "Aprende Node.js",
+    "numVistas": 4000,
+    "numLikes": 2000,
+    "temas": [
+        "JavaScript",
+        "Node.js"
+    ],
+    "esPublico": true
+}
